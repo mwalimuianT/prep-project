@@ -1,0 +1,38 @@
+body{
+    padding: 30px;
+    text-align: justify;
+    background: green;
+}
+
+.container {
+    background-color: burlywood;
+}
+
+  
+ul>li>a:hover {
+    background-color: black;
+
+}
+
+.navbar {
+  display: flex;
+}
+
+nav{
+  text-align: right
+  
+}
+
+ul>li {
+  display: inline;
+  text-align: center
+}
+
+li a{
+  text-decoration: none;
+  padding: 18px;
+  color: rgb(146, 216, 150)
+}
+a {
+  text-transform: uppercase;
+}

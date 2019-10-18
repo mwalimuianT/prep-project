@@ -1,0 +1,142 @@
+.container {
+    margin:0
+    display:flex;
+justify-content:space-evenly;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('https://bsconsultants.co.ke/wp-content/uploads/2018/11/BIO-GAS-BS-CONSULTANTS11.jpg') no-repeat center center/cover;
+    color: antiquewhite;
+}
+
+.logo {
+    float: left;
+}
+
+header {
+    background-color:goldenrod;
+}
+
+nav ul {
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    display:flex;
+    padding: 3%;
+    float: right;
+    margin-bottom: 30px;
+}
+
+nav li {
+    padding: 10px;
+    display: inline-table;
+    margin-left: 7px;
+    text-decoration: none;
+    text-transform: capitalize;
+   
+}
+li a {
+    color: red;
+    padding-top: 5px
+}
+
+a:link {
+    color: rgb(255, 174, 116);
+    padding: 20px;
+}
+
+.bio p {
+    text-align: center;     
+}
+#h2 p {
+    text-align: center;
+}
+
+.bio {
+    text-align: right;
+}
+
+.digesters {
+    text-align: left;
+}
+
+#h2 {
+    text-align: right;
+    text-decoration-color: beige;    
+}
+
+.manure {
+    float: left;
+}
+
+.renewable {
+    float: right;
+    display: flex;
+}
+
+#light {
+    display: flex;
+}
+
+h3 {
+    text-emphasis: none;
+    text-decoration: darkgrey;
+}
+
+hr {
+    border: 1px solid forestgreen;
+    outline: none;
+}
+
+button {
+    background-color:brown;
+    color: rgb(150, 150, 118);
+    padding: 7px o;
+    border: none;
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+
+button:hover {
+    opacity: 1;
+}
+
+
+.cancelbtn {
+    padding: 14px 25px;
+    background-color:azure;
+    float: left;
+    width: 10%;
+}
+
+.signupbtn{
+    float: left;
+    width: 10%;
+}
+.signupbtn {
+    padding: 14px 25px;
+    background-color:azure;
+    float: left;
+    width: 10%;
+}
+
+
+.container {
+    padding: 15px;
+
+}
+
+h4 {
+  margin-bottom:30px;
+}
+
+
+#social {
+    flex-direction: column;
+    display: block;
+    float: right;
+    text-align: initial;
+

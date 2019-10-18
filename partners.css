@@ -1,0 +1,44 @@
+header {
+    color: rgb(196, 169, 196);
+}
+
+.container {
+    margin:0;
+    display:flex
+justify-content;space-evenly;
+
+}
+
+body {
+    margin: 0px;
+    font-family: 'Times New Roman';
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo {
+    float: left;
+}
+
+header {
+    text-emphasis: none;
+    
+}
+
+nav ul {
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    display:flex;
+    padding: 3%;
+    float: right;
+}
+
+nav li {
+    padding: 10px;
+    display: inline-table;
+    margin-left: 7px;
+    text-decoration: none;
+    text-transform: capitalize;
+   
+}
